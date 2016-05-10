@@ -1,0 +1,43 @@
+/* mixins, variables, etc. */
+
+/* Universal */
+
+html {
+  overflow-y: scroll;
+}
+
+body {
+  padding-top: 60px;
+}
+
+section {
+  overflow: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+/* typography */
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.7em;
+}
+
+/* Header */
+
+/* Main Content */
+.main {
+  min-height: 100%;
+}
+
+/* forms */
+
+
+/* Footer */
+
